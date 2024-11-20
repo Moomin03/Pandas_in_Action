@@ -8,6 +8,7 @@
 	- PC : MacBook Air 2020 M1 chip
 	- macOS : Sequoia 15.0.1
 	- Safari 18.0.1 (Jupyter Notebook)
+	- 라이브러리 : requirements.txt
 ---
 #### 🗄️ 디렉토리 구성
 ```sh
