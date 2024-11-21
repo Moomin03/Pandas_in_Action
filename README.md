@@ -16,6 +16,8 @@
 │  └─Chapter_1
 │  │  ├─Jupyter Notebook
 │  │  │      1장. 판다스 소개.ipynb
+│  │  │      2장. Series 객체.ipynb
+│  │  │      2장. Series 객체 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      movies.csv
 │────requirements.txt
