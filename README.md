@@ -18,6 +18,8 @@
 │  │  │      1장. 판다스 소개.ipynb
 │  │  │      2장. Series 객체.ipynb
 │  │  │      2장. Series 객체 연습문제.ipynb
+│  │  │      3장. Series 메서드.ipynb
+│  │  │      3장. Series 메서드 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      movies.csv
 │────requirements.txt
