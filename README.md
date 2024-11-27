@@ -20,8 +20,15 @@
 │  │  │      2장. Series 객체 연습문제.ipynb
 │  │  │      3장. Series 메서드.ipynb
 │  │  │      3장. Series 메서드 연습문제.ipynb
+│  │  │      4장. DataFrame 객체.ipynb
+│  │  │      4장. DataFrame 객체 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      movies.csv
+│  │  │      pokemon.csv
+│  │  │      revolutionary_war.csv
+│  │  │      google_stocks.csv
+│  │  │      nba.csv
+│  │  │      nfl.csv
 │────requirements.txt
 └────README.MD
 ```
