@@ -22,6 +22,8 @@
 │  │  │      3장. Series 메서드 연습문제.ipynb
 │  │  │      4장. DataFrame 객체.ipynb
 │  │  │      4장. DataFrame 객체 연습문제.ipynb
+│  │  │      5장. DataFrame 필터링.ipynb
+│  │  │      5장. DataFrame 필터링 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      movies.csv
 │  │  │      pokemon.csv
@@ -29,6 +31,8 @@
 │  │  │      google_stocks.csv
 │  │  │      nba.csv
 │  │  │      nfl.csv
+│  │  │      employees.csv
+│  │  │      netflix.csv
 │────requirements.txt
 └────README.MD
 ```
