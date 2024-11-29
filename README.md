@@ -33,6 +33,12 @@
 │  │  │      nfl.csv
 │  │  │      employees.csv
 │  │  │      netflix.csv
+│  └─Chapter_2
+│  │  │      6장. 텍스트 데이터 다루기.ipynb
+│  │  │      6장. 텍스트 데이터 다루기 연습문제.ipynb
+│  │  ├─Datasets
+│  │  │      chicago_food_inspections.csv
+│  │  │      customers.csv
 │────requirements.txt
 └────README.MD
 ```
