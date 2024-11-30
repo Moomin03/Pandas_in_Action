@@ -36,9 +36,15 @@
 │  └─Chapter_2
 │  │  │      6장. 텍스트 데이터 다루기.ipynb
 │  │  │      6장. 텍스트 데이터 다루기 연습문제.ipynb
+│  │  │      7장. 재구성과 피벗.ipynb
+│  │  │      7장. 재구성과 피벗 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      chicago_food_inspections.csv
 │  │  │      customers.csv
+│  │  │      used_cars.csv
+│  │  │      video_game_sales.csv
+│  │  │      minimum_wages.csv
+│  │  │      recipes.csv
 │────requirements.txt
 └────README.MD
 ```
