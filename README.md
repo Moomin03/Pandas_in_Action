@@ -38,6 +38,8 @@
 │  │  │      6장. 텍스트 데이터 다루기 연습문제.ipynb
 │  │  │      7장. 재구성과 피벗.ipynb
 │  │  │      7장. 재구성과 피벗 연습문제.ipynb
+│  │  │      8장. GroupBy 객체.ipynb
+│  │  │      8장. GroupBy 객체 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      chicago_food_inspections.csv
 │  │  │      customers.csv
@@ -45,6 +47,8 @@
 │  │  │      video_game_sales.csv
 │  │  │      minimum_wages.csv
 │  │  │      recipes.csv
+│  │  │      fortune1000.csv
+│  │  │      cereals.csv
 │────requirements.txt
 └────README.MD
 ```
