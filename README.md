@@ -40,6 +40,8 @@
 │  │  │      7장. 재구성과 피벗 연습문제.ipynb
 │  │  │      8장. GroupBy 객체.ipynb
 │  │  │      8장. GroupBy 객체 연습문제.ipynb
+│  │  │      9장. 병합, 조인 및 연결.ipynb
+│  │  │      9장. 병합, 조인 및 연결 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      chicago_food_inspections.csv
 │  │  │      customers.csv
@@ -48,7 +50,15 @@
 │  │  │      minimum_wages.csv
 │  │  │      recipes.csv
 │  │  │      fortune1000.csv
-│  │  │      cereals.csv
+│  │  │      categories.csv
+│  │  │      cities.csv
+│  │  │      groups1.csv
+│  │  │      groups2.
+│  │  │      customers.csv
+│  │  │      foods.csv
+│  │  │      week_1_sales.csv
+│  │  │      week_1_satisfaction.csv
+│  │  │      week_2_sales.csv
 │────requirements.txt
 └────README.MD
 ```
