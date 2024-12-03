@@ -42,6 +42,8 @@
 │  │  │      8장. GroupBy 객체 연습문제.ipynb
 │  │  │      9장. 병합, 조인 및 연결.ipynb
 │  │  │      9장. 병합, 조인 및 연결 연습문제.ipynb
+│  │  │      10장. 날짜 및 시간 다루기.ipynb
+│  │  │      10장. 날짜 및 시간 다루기 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      chicago_food_inspections.csv
 │  │  │      customers.csv
@@ -59,6 +61,8 @@
 │  │  │      week_1_sales.csv
 │  │  │      week_1_satisfaction.csv
 │  │  │      week_2_sales.csv
+│  │  │      deliveries.csv
+│  │  │      disney.csv
 │────requirements.txt
 └────README.MD
 ```
