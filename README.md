@@ -152,5 +152,5 @@
     mkdir "Git 파일"
 3. 저장소 클론:
     ```bash
-    git https://github.com/Moomin03/Study_alone_ML
+    git https://github.com/Moomin03/Pandas_in_Action
 4. 디렉토리 이동
