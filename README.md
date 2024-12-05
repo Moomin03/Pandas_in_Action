@@ -45,18 +45,21 @@
 │  │  │      employees.csv
 │  │  │      netflix.csv
 │  └─6장. 텍스트 데이터 다루기
+│  │  ├─Jupyter Notebook
 │  │  │      6장. 텍스트 데이터 다루기.ipynb
 │  │  │      6장. 텍스트 데이터 다루기 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      chicago_food_inspections.csv
 │  │  │      customers.csv
 │  └─7장. MultiIndex DataFrame
+│  │  ├─Jupyter Notebook
 │  │  │      7장. MultiIndex DataFrame.ipynb
 │  │  │      7장. MultiIndex DataFrame 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      investments.csv
 │  │  │      neighborhoods.csv
 │  └─8장. 재구성과 피벗
+│  │  ├─Jupyter Notebook
 │  │  │      8장. 재구성과 피벗.ipynb
 │  │  │      8장. 재구성과 피벗 연습문제.ipynb
 │  │  ├─Datasets
@@ -66,12 +69,14 @@
 │  │  │      recipes.csv
 │  │  │      sales_by_employee.csv
 │  └─9장. GroupBy 객체
+│  │  ├─Jupyter Notebook
 │  │  │      9장. GroupBy 객체.ipynb
 │  │  │      9장. GroupBy 객체 연습문제.ipynb
 │  │  ├─Datasets
 │  │  │      cereals.csv
 │  │  │      fortune1000.csv
 │  └─10장. 병합, 조인 및 연결
+│  │  ├─Jupyter Notebook
 │  │  │      10장. 병합, 조인 및 연결.ipynb
 │  │  │      10장. 병합, 조인 및 연결 연습문제.ipynb
 │  │  ├─Datasets
@@ -87,6 +92,7 @@
 │  │  │  │   week_1_satisfaction.csv
 │  │  │  │   week_2_sales.csv
 │  └─11장. 날짜 및 시간 다루기
+│  │  ├─Jupyter Notebook
 │  │  │      11장. 날짜 및 시간 다루기.ipynb
 │  │  │      11장. 날짜 및 시간 다루기 연습문제.ipynb
 │  │  ├─Datasets
@@ -94,6 +100,7 @@
 │  │  │      deliveries.csv
 │  │  │      disney.csv
 │  └─12장. 가져오기와 보내기
+│  │  ├─Jupyter Notebook
 │  │  │      12장. 가져오기와 보내기.ipynb
 │  │  │      12장. 가져오기와 보내기 연습문제.ipynb
 │  │  ├─Datasets (.xlsx)
@@ -107,7 +114,13 @@
 │  │  ├─Datasets (.csvv)
 │  │  │      NYC_Baby_Names.csv
 │  └─13장. 판다스 설정
+│  │  ├─Datasets
+│  │  │      happiness.csv
 │  └─14장. 시각화
+│  │  ├─Jupyter Notebook
+│  │  │      14장. 시각화.ipynb
+│  │  ├─Datasets
+│  │  │      space_missions.csv
 │────requirements.txt
 └────README.MD
 ```
