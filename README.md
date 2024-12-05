@@ -3,13 +3,31 @@
 ---
 <img src="https://image.yes24.com/goods/112208378/XL.jpg" alt="Book" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
 
+
 ---
+### ✅ 소개
+    @ 이 저장소는 "판다스 인 액션(Pandas in Action)" 도서를 학습하며 작성한 실습 코드와 예제를 정리한 자료입니다.
+    @ 책의 내용을 직접 구현하고 확장하면서 학습한 내용을 기록하고 공유하기 위해 제작되었습니다.
+
+
+---
+### ✅ 목차
+1. [✅ 개발 환경](#개발-환경)
+2. [✅ 디렉토리 구성](#디렉토리-구성)
+3. [✅ 실행 방법](#실행-방법)
+
+
+---
+<a name="개발-환경"></a>
 #### 🙈 개발 환경
 	- PC : MacBook Air 2020 M1 chip
 	- macOS : Sequoia 15.0.1
 	- Safari 18.0.1 (Jupyter Notebook)
 	- 라이브러리 : requirements.txt
+
+
 ---
+<a name="디렉토리-구성"></a>
 #### 🗄️ 디렉토리 구성
 ```sh
 ├─Pandas_in_Action (판다스 인 액션)
@@ -125,3 +143,14 @@
 └────README.MD
 ```
 
+---
+<a name="실행-방법"></a>
+### ✅ 실행 방법
+1. Terminal 열기
+2. 디렉토리 생성:
+    ```bash
+    mkdir "Git 파일"
+3. 저장소 클론:
+    ```bash
+    git https://github.com/Moomin03/Study_alone_ML
+4. 디렉토리 이동
